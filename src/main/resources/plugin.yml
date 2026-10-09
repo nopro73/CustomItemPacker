@@ -1,0 +1,5 @@
+name: CustomItemPacker
+version: 1.0
+main: com.yourname.customitempacker.CustomItemPacker
+api-version: 1.12
+description: Automatically applies the custom item pack to Eaglercraft players.
